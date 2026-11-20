@@ -5,7 +5,6 @@ from resume screening to dashboards that people can trust and check.
 
 - 🔭 Currently building **[Lens](https://github.com/Mohit1473/lens)**, an explainable resume screener
 - 🌱 Learning: machine learning, NLP and full-stack web apps
-- 🤝 Open to: graduate and junior roles in data, ML and software engineering
 
 ## Featured project
 
@@ -25,11 +24,21 @@ final decision.
 
 `Python` `scikit-learn` `pandas` `Streamlit` `Next.js` `React` `TypeScript` `Vercel` `GitHub Actions`
 
+## More projects
+
+### [Customer churn prediction and fairness audit](https://github.com/Mohit1473/case-studies-assignment-1)
+
+Predicts which customers will leave a telecom company (k-nearest neighbours) and a bank
+(random forest), then checks the models properly: stratified 5-fold cross-validation,
+learning curves, feature importance, and a Fairlearn bias audit across gender, age and country.
+
+`Python` `scikit-learn` `pandas` `Fairlearn` `Jupyter`
+
 ## Tech I use
 
 | Area | Tools |
 |---|---|
 | Languages | Python, TypeScript, JavaScript, SQL |
-| Data and ML | pandas, scikit-learn, TF-IDF, NumPy |
+| Data and ML | pandas, scikit-learn, Fairlearn, TF-IDF, NumPy |
 | Web | Next.js, React, Streamlit, HTML, CSS |
-| Tools | Git, GitHub Actions, Vercel, VS Code |
+| Tools | Git, GitHub Actions, Vercel, VS Code, Jupyter |
